@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-- 🧑‍💻 **Profession**: A self-taught Data Analyst managing all things data in my business—from analytics to data engineering.  
+- 🧑‍💻 **Profession**: A self-taught Data Analyst managing all things data in my business—from analytics to data engineering.
 - 🌱 **Learning Journey**: Building my skills in Python and APIs while aspiring to become a Data Scientist.  
 - 🎮 **Gamer**: Known as **Shodwig**, I enjoy strategy games, RPGs, and exploring Warhammer lore.  
 - ♾️ **Proudly Autistic**: Diagnosed autistic, leveraging neurodiversity to approach problems creatively and deliver unique insights.
